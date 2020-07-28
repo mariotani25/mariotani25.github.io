@@ -1,6 +1,6 @@
 window.config = {
   // default: '/'
-  routerBasename: '/ohif-demo/',
+  routerBasename: '/',
   extensions: [],
   showStudyList: true,
   filterQueryParam: false,
