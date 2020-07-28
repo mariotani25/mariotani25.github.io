@@ -18,34 +18,7 @@ window.config = {
       },
     ],
   },
-  // servers: {
-  //   dicomWeb: [
-  //     {
-  //       name: 'pacs',
-  //       wadoUriRoot: 'http://radiologi.rkzsby.local/orthanc/dicom-web/',
-  //       qidoRoot: 'http://radiologi.rkzsby.local/orthanc/dicom-web/',
-  //       wadoRoot: 'http://radiologi.rkzsby.local/orthanc/dicom-web/',
-  //       qidoSupportsIncludeField: true,
-  //       imageRendering: 'wadors',
-  //       thumbnailRendering: 'wadors',
-  //       enableStudyLazyLoad: true,
-  //     },
-  //   ],
-  // },
-  //  servers: {
-  //   dicomWeb: [
-  //     {
-  //       name: 'pacs1',
-  //       wadoUriRoot: 'http://192.168.236.10/orthanc/dicom-web/', 
-  //       qidoRoot: 'http://192.168.236.10/orthanc/dicom-web/', 
-  //       wadoRoot: 'http://192.168.236.10/orthanc/dicom-web/', 
-  //       qidoSupportsIncludeField: true,
-  //       imageRendering: 'wadors',
-  //       thumbnailRendering: 'wadors',
-  //       enableStudyLazyLoad: true,
-  //     },
-  //   ],
-  // },
+
   // Extensions should be able to suggest default values for these?
   // Or we can require that these be explicitly set
   hotkeys: [
